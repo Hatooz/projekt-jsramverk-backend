@@ -1,2 +1,3 @@
-# projekt-jsramverk-backend
-Backend repo for jsramverk project
+# install dependencies
+npm install
+# jsramverkbprojekt-jsramverk-backend
